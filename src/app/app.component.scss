@@ -1,0 +1,18 @@
+.map-div{
+    height: 100%;
+    width: 100%;
+}
+
+.btn-container{
+    position:absolute;
+    top:0;
+    left: 0;
+    display: flex;
+    .btn{
+        width: auto;
+        height: 30px;
+        background-color: aqua;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+}
